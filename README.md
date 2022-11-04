@@ -3,7 +3,7 @@
 
 <p align = "center">
 <img src="https://github-readme-stats.vercel.app/api?username=mamh2021&theme=vue" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=mamh2021&show_icons=true&locale=cn&layout=compact&theme=vue&line_height=0" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=mamh2021&theme=vue" />
 </p>
 
 
