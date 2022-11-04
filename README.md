@@ -2,8 +2,8 @@
 
 
 <p align = "center">
-<img with="50%" src="https://github-readme-stats.vercel.app/api?username=mamh2021&theme=vue" />
-<img with="50%"  src="https://github-readme-streak-stats.herokuapp.com/?user=mamh2021&theme=vue&show_icons=true" />
+<img style="max-width: 50%;" src="https://github-readme-stats.vercel.app/api?username=mamh2021&theme=vue" />
+<img style="max-width: 50%;" src="https://github-readme-streak-stats.herokuapp.com/?user=mamh2021&theme=vue&show_icons=true" />
 </p>
 
 
