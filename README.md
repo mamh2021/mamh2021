@@ -5,7 +5,10 @@
 
 👋![my blog](https://magesfc.github.io/)
 
+# 推荐的github仓库
 
+ https://github.com/golang108/git-gerrit Git for gerrit 简易命令行工具，辅助提交代码到gerrit上的 
+ 
 
 
 <p align = "center">
