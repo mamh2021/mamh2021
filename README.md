@@ -1,8 +1,9 @@
-### Talk is cheap?show me the code. 废话少说，放码过来 
+# Talk is cheap! show me code!
+# 废话少说!       放码过来!
 
 👋![visitor badge](https://visitor-badge.glitch.me/badge?page_id=mamh2021.visitor-badge)
 
-👋![visitor blog](https://magesfc.github.io/)
+👋![my blog](https://magesfc.github.io/)
 
 
 
